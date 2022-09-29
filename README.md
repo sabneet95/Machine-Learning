@@ -2,7 +2,7 @@
 
 A repository of machine learning tests to train models from datasets for academic purposes!
 
-<img src="https://github.com/sabneet95/Game-Development/blob/main/Game_Logo.png" width="300" height="300">
+<img src="https://github.com/sabneet95/Machine-Learning/blob/master/brain.png" width="500" height="400">
 
 → `Domain-specific code! Will not work on its own but can be modified for other projects.`
 
